@@ -1,0 +1,57 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+ul {
+    list-style-type: none;
+  
+    background-color: rgb(0, 0, 0);
+  }
+
+
+  li {
+    display: inline; /* zorgt ervoor dat de linkjes naar de andere pagina's op een lijn komen te staan */
+  }
+
+
+  li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+
+  main {
+margin: 10%;
+  }
+
+.centreTop{
+    text-align: center;
+}
+
+
+.miniIntro
+{
+    margin: left;
+    width: 15%;
+}
+
+
+.miniIntro img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+}
+
+
+.hidden-link {
+    text-decoration: none; 
+    color: inherit; 
+    cursor: text; 
+}
+
+
+
