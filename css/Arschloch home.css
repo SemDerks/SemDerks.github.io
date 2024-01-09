@@ -58,7 +58,7 @@ main {
 }
 
 .miniIntro>a:hover {
-  color:green;
+color:rgb(237, 24, 24);
   transform: scale(105%);
 }
 
